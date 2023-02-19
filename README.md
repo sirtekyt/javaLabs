@@ -1,2 +1,2 @@
 # javaLabs
-Here you Can Find Some Code was Done in labs
+You can find some code that was developed in our labs here.
